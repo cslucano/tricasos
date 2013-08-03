@@ -1,0 +1,14 @@
+parameters:
+  database_driver: pdo_pgsql
+  database_host: 127.0.0.1
+  database_port: null
+  database_name: localhost
+  database_user: tricasos
+  database_password: tricasos
+  mailer_transport: smtp
+  mailer_host: 127.0.0.1
+  mailer_user: null
+  mailer_password: null
+  locale: en
+  secret: 1c8c4ebc9e3ceaf28d537ac6c90d7f0887309ae1
+  database_path: null
